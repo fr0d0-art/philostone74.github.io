@@ -30,6 +30,10 @@
 	.modal-product-img, .modal-product-img__size, .modal-about__div{
 		height: 300px;
 	}
+	.modal-product-img__Rock, .modal-product-img__size__Rock{
+		width: 200px !important;
+		height: 220px;
+	}
 	.working-bg{
 		height: 700px;
 	}
@@ -60,6 +64,9 @@
 	}
 	.modal-product-img, .modal-product-img__size, .modal-about__div{
 		height: 300px;
+	}
+	.modal-product-img__Rock, .modal-product-img__size__Rock{
+		height: 220px;
 	}
 }
 @media screen and (min-width: 800px){
@@ -93,6 +100,9 @@
 	}
 	.modal-product-img, .modal-product-img__size, .modal-about__div{
 		height: 330px;
+	}
+	.modal-product-img__Rock, .modal-product-img__size__Rock{
+		height: 220px;
 	}
 	.working-bg{
 		height: 920px;
@@ -131,6 +141,10 @@
 	.modal-product-img, .modal-product-img__size, .modal-about__div{
 		height: 400px;
 	}
+	.modal-product-img__Rock, .modal-product-img__size__Rock{
+		width: 300px !important;
+		margin-left: -50px;
+	}
 	.working-bg{
 		height: 1100px;
 	}
@@ -154,6 +168,10 @@
 		font-size: 2em;
 		right: 20px;
 		top: 5px;
+	}
+	.modal-product-img__Rock, .modal-product-img__size__Rock{
+		width: 320px !important;
+		margin-left: -50px;
 	}
 	.working-bg{
 		height: 1500px;
