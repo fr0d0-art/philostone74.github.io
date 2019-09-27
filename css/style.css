@@ -227,21 +227,18 @@ header{
 /*Модальные окна*/
 .modal-body{
 	background-color: #363636;
-	height: 440px;
 }
 .modal-header h2{
 	font-family: 'Caveat', cursive;
 }
 .modal-product-img{
 	position: relative;
-	height: 400px;
 	width: auto;
 	display: block;
 	position: absolute;
 	top: 0;left: 0;
 }
 .modal-product-img__size{
-	height: 400px;
 	width: auto;
 	display: block;
 	position: absolute;
@@ -272,7 +269,6 @@ header{
 	right: 0;
 	z-index: 2;
 	background-color: #fff;
-	height: 105%;
 	width: 0%;
 	overflow: hidden;
 	transition: 0.5s;
