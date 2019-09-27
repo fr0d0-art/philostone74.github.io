@@ -1,0 +1,147 @@
+@media screen and (min-width: 500px){
+	.header-title{
+		font-size: 1.5em;
+		left: 25px;
+		top: 32px;
+	}
+	.header-phone{
+		font-size: 1.5em;
+		right: 10px;
+		top: 10px;
+	}
+	.header-parchment h1{
+		font-size: 1.3em !important;
+	}
+	.product-selection{
+		flex-direction: column;
+		justify-content: flex-start;
+		height: 300px;
+	}
+	.product-selection_circle-background{
+		height: 50% !important;
+		width: 50% !important;
+	}
+	.product-selection_circle-background:nth-child(1){
+		margin-top: 100px;
+	}
+	.working-bg{
+		height: 700px;
+	}
+	.working{
+		height: 480px;
+		width: 480px;
+		margin-left: calc(50% - 240px);
+		margin-top: calc(50% - 240px);
+	}
+	.faq{
+		height: 2500px;
+	}
+}
+@media screen and (min-width: 800px){
+	.header-title{
+		font-size: 2.4em;
+		left: 25px;
+		top: 14px;
+	}
+	.header-phone{
+		font-size: 1.8em;
+		right: 10px;
+		top: 10px;
+	}
+	.header-parchment h1{
+		font-size: 1.8em !important;
+	}
+	.product-selection{
+		flex-direction: row;
+		justify-content: center;
+		height: 1000px !important;
+	}
+	.product-selection_circle-background{
+		height: 400px !important;
+		width: 400px !important;
+	}
+	.product-selection_circle-background:nth-child(1){
+		margin-top: 0px;
+	}
+	.working-bg{
+		height: 920px;
+	}
+	.working{
+		height: 650px;
+		width: 650px;
+		margin-left: calc(50% - 325px);
+		margin-top: calc(50% - 325px);
+	}
+	.faq{
+		height: 1300px;
+	}
+}
+@media screen and (min-width: 660px){
+	.header-title{
+		font-size: 2em;
+		left: 25px;
+		top: 24px;
+	}
+	.header-phone{
+		font-size: 1.8em;
+		right: 14px;
+		top: 10px;
+	}
+	.product-selection_circle-background{
+		height: 300px !important;
+		width: 300px !important;
+	}
+
+}
+@media screen and (min-width: 1000px){
+	.header-title{
+		font-size: 2.4em;
+		left: 36px;
+		top: 22px;
+	}
+	.header-phone{
+		font-size: 2em;
+		right: 20px;
+		top: 4px;
+	}
+	.header-parchment h1{
+		font-size: 2em !important;
+	}
+	.product-selection_circle-background{
+		height: 400px !important;
+		width: 400px !important;
+	}
+	.working-bg{
+		height: 1100px;
+	}
+	.working{
+		height: 750px;
+		width: 750px;
+		margin-left: calc(50% - 375px);
+		margin-top: calc(50% - 375px);
+	}
+	.faq{
+		height: 860px;
+	}
+}
+@media screen and (min-width: 1200px){
+	.header-title{
+		font-size: 3em;
+		left: 45px;
+		top: 10px;
+	}
+	.header-phone{
+		font-size: 2em;
+		right: 20px;
+		top: 5px;
+	}
+	.working-bg{
+		height: 1500px;
+	}
+	.working{
+		height: 950px;
+		width: 950px;
+		margin-left: calc(50% - 475px);
+		margin-top: calc(50% - 475px);
+	}
+}
