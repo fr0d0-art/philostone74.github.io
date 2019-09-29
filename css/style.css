@@ -619,6 +619,7 @@ circle {
 .faq{
 	width: 100%;
 	height: auto;
+	/*padding-bottom: 10px;*/
 	background-color: #BBDEFB;
 }
 .faq-question{
@@ -628,6 +629,7 @@ circle {
 	align-items: center;
 	position: relative;
 	perspective: 1000px;
+	margin-bottom: 10px;
 }
 .front, .back {
 	position: absolute;
@@ -646,6 +648,7 @@ circle {
 	background-color: #fff;
 	font-size: 22px;
 	font-family: 'Comfortaa', cursive;
+	font-weight: 800;
 }
 .back {
 	overflow: auto;
