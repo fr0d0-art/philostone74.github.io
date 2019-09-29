@@ -618,6 +618,7 @@ circle {
 /*Секция для раздела F.A.Q. (часто задаваемые вопросы)*/
 .faq{
 	width: 100%;
+	height: auto;
 	background-color: #BBDEFB;
 }
 .faq-question{

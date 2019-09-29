@@ -43,9 +43,9 @@
 		margin-left: calc(50% - 240px);
 		margin-top: calc(50% - 240px);
 	}
-	.faq{
+	/*.faq{
 		height: 2500px;
-	}
+	}*/
 }
 @media screen and (min-width: 660px){
 	.header-title{
@@ -113,9 +113,9 @@
 		margin-left: calc(50% - 325px);
 		margin-top: calc(50% - 325px);
 	}
-	.faq{
+	/*.faq{
 		height: 1300px;
-	}
+	}*/
 }
 @media screen and (min-width: 1000px){
 	.header-title{
@@ -154,9 +154,9 @@
 		margin-left: calc(50% - 375px);
 		margin-top: calc(50% - 375px);
 	}
-	.faq{
+	/*.faq{
 		height: 860px;
-	}
+	}*/
 }
 @media screen and (min-width: 1200px){
 	.header-title{
