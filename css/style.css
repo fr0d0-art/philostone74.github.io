@@ -621,6 +621,7 @@ circle {
 	height: auto;
 	/*padding-bottom: 10px;*/
 	background-color: #BBDEFB;
+	overflow: hidden;
 }
 .faq-question{
 	height: 200px;
