@@ -184,7 +184,7 @@ $(function() {
     	  thorn = $(".working-svg_thorn");
     $(window).scroll(function() {
     	var scroll = $(window).scrollTop();
-    		 offset = $('#working').offset().top - 200;
+    		 offset = $('#working').offset().top - 300;
          if (scroll > offset) {
          	  thorn.css({'transition' : '1.5s', 'opacity' : '1'});
             bag.css({'transition' : '1s', 'transform' : 'translate(-150%, -75%)', 'opacity' : '1'});
@@ -215,7 +215,7 @@ $(function() {
         thorn = $(".working-svg_thorn");
 $(window).scroll(function() {
     	var scroll = $(window).scrollTop();
-    		 offset = $('#faq').offset().top - 200;
+    		 offset = $('#faq').offset().top - 300;
          if (scroll > offset) {
           	thorn.css({'transition' : '1.5s', 'opacity' : '0'});
         		bag.css({'transition' : '1s', 'transform' : 'translate(0%, 0%)', 'opacity' : '0'});
