@@ -182,4 +182,7 @@
 		margin-left: calc(50% - 475px);
 		margin-top: calc(50% - 475px);
 	}
+	.back span{
+		font-size: 14px !important;
+	}
 }
